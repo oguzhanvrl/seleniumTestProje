@@ -11,4 +11,4 @@
 
 Clone the test project to your own repo to instantly try WebDriver and view it on **[UncleSoftware.com](http://unclesoftware.com/)**
 
-![alt text](https://github.com/oguzhanvrl/seleniumTestProje/webdriver.png)
+![alt text](https://github.com/oguzhanvrl/seleniumTestProje/blob/master/webdriver.png)
