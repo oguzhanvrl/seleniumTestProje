@@ -6,7 +6,7 @@
 - **Selenium**
 - **Maven**
 - **TestNG / JUnit**
-- **XPath / CssSelector**
+- **XPath / CssSelector >** RanorexSelocity ChromeExtension
 
 
 Clone the test project to your own repo to instantly try WebDriver and view it on **[UncleSoftware.com](http://unclesoftware.com/)**
